@@ -6,7 +6,7 @@ const routes = require("./routes");
 // Set up the Express App
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 7000;
 
 // Requiring our models for syncing
 var db = require("./models");
