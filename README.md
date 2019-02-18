@@ -2,4 +2,4 @@
 This is my group's repo for Project 2. We will make an app to help groups of people decide on their vacation plans.
 
 
-Heroku link: https://tranquil-oasis-77026.herokuapp.com/
+Heroku link: https://young-shore-67305.herokuapp.com/
